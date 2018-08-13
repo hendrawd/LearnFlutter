@@ -1,8 +1,3 @@
-# flutter_app
+# LearnFlutter
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+My Progress and documentation from learning flutter
